@@ -143,13 +143,18 @@ main {
   max-width: 343px;
 }
 
-main div {
+main img {
+  max-width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+
+/* main div {
   background: url("../images/image-product-mobile.jpg") center center / cover;
   width: 343px;
   height: 240px;
   border-radius: 10px 10px 0 0;
   margin-bottom: 1em;
-}
+} */
 
 main aside {
   padding: 25px;
@@ -227,7 +232,7 @@ main aside button img {
 }
 
 footer {
-  font-size: 11px;
+  font-size: 0.7rem;
   text-align: center;
   width: 100%;
 }
@@ -241,20 +246,27 @@ footer a {
   }
   main {
     display: flex;
-    height: 450px;
     width: 600px;
     max-width: none;
   }
-  main div {
+
+  main picture {
+    width: 300px;
+  }
+  main img {
+    height: 100%;
+    border-radius: 10px 0 0 10px;
+  }
+  /* main div {
     background: url("../images/image-product-desktop.jpg") no-repeat center
       center / cover;
     border-radius: 10px 0 0 10px;
     width: 50%;
     height: 450px;
-  }
+  } */
 
   main aside {
-    width: 50%;
+    width: 250px;
   }
 
   main aside h3,
