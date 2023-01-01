@@ -21,8 +21,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Links
 
-- Solution URL: [GitHub Repo](https://github.com/AmmarMKamel/qr-code-component)
-- Live Site URL: [QR Code Component](https://ammarmkamel.github.io/qr-code-component/)
+- Solution URL: [GitHub Repo](https://github.com/AmmarMKamel/product-preview-card-component)
+- Live Site URL: [Product Preview Card](https://ammarmkamel.github.io/product-preview-card-component/)
 
 ## Built with
 
